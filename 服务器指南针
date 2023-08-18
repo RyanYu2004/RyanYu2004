@@ -1,4 +1,4 @@
-Clock:666
+Clock:
   AutoGetClock: false
   MainGuiId: home
   Name: '&b服务器指南'
